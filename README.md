@@ -60,7 +60,7 @@ I am especially interested in AI systems that connect models with real-world wor
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,react,tailwind,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Frontend" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I am especially interested in AI systems that connect models with real-world wor
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="Backend" />
 </p>
 
 ### Databases
@@ -82,7 +82,7 @@ I am especially interested in AI systems that connect models with real-world wor
 ### AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and ML" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ I am especially interested in AI systems that connect models with real-world wor
 ### Cloud & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ I am especially interested in AI systems that connect models with real-world wor
 | Time Series | Scientific forecasting | Working with temporal data for solar flare forecasting and space weather analysis. |
 | Computer Vision | Object detection and visual intelligence | Using OpenCV and YOLO-oriented pipelines for surveillance, monitoring, detection, and automation use cases. |
 | OCR | Document understanding | Designing OCR workflows with geometry-aware reconstruction and intelligent document processing. |
-| Deep Learning | Model-driven applications | Applying PyTorch, TensorFlow, and computer vision tooling to practical engineering problems. |
+| Deep Learning | Model-driven applications | Applying PyTorch and computer vision tooling to practical engineering problems. |
 | Data Engineering | Pipeline-oriented systems | Structuring data ingestion, processing, automation, and application interfaces around AI workflows. |
 
 ---
@@ -200,31 +200,6 @@ The project emphasizes systems thinking across networking, synchronization, mult
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Div-IN-Git&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Div-IN-Git&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=E5E7EB" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Div-IN-Git&theme=violet-punch&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Div-IN-Git&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)
-
-</div>
-
----
-
 ## Contribution Activity Graph
 
 <div align="center">
@@ -235,7 +210,7 @@ The project emphasizes systems thinking across networking, synchronization, mult
 
 ---
 
-## Snake Animation
+## Contribution History
 
 <div align="center">
 
@@ -294,5 +269,3 @@ Open To:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8e2de2,50:302b63,100:0f0c29)
 
 </div>
-
-
